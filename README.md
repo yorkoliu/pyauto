@@ -1,7 +1,5 @@
-pyauto
-======
 
-《python自动化运维实践》附带示例及案例系统源码
+#《python自动化运维：技术与最佳实践》附带示例及案例源码
 
 ##章节列表
 * 第一章
@@ -27,5 +25,6 @@ pyauto
 
 * 问答平台 [qa.liuts.com](http://qa.liuts.com)
 * 邮件(liutiansi@gmail.com)
-* weibo: [@yorkoliu](http://t.qq.com/yorkoliu)
+* weibo: [@yorkoliu](http://weibo.com/u/1775431677)
 * blog: [blog.liuts.com](http://blog.liuts.com)
+* 微信号：yorkoliu
