@@ -1,5 +1,8 @@
 
-#《python自动化运维：技术与最佳实践》附带示例及案例源码
+##《python自动化运维：技术与最佳实践》附带示例及案例源码
+
+- 【国内镜像】（JD云汇）[https://code.jd.com/yorkoliu/pyauto](https://code.jd.com/yorkoliu/pyauto)
+- 【国外镜像】（Github）[https://github.com/yorkoliu/pyauto](https://github.com/yorkoliu/pyauto)
 
 ##章节列表
 * 第一章
