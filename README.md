@@ -3,7 +3,7 @@
 
 - 【国内镜像】（JD云汇）[https://code.jd.com/yorkoliu/pyauto](https://code.jd.com/yorkoliu/pyauto)
 - 【国外镜像】（Github）[https://github.com/yorkoliu/pyauto](https://github.com/yorkoliu/pyauto)
-- 【源码打包下载】（zip）[https://code.jd.com/yorkoliu/pyauto/pyauto.zip](https://code.jd.com/yorkoliu/pyauto/pyauto.zip)
+- 【源码打包下载】（zip）[https://code.jd.com/yorkoliu/pyauto/blob/master/pyauto.zip](https://code.jd.com/yorkoliu/pyauto/blob/master/pyauto.zip)
 
 ##章节列表
 * 第一章
