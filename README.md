@@ -3,7 +3,7 @@
 
 - 【国内镜像】（JD云汇）[https://code.jd.com/yorkoliu/pyauto](https://code.jd.com/yorkoliu/pyauto)
 - 【国外镜像】（Github）[https://github.com/yorkoliu/pyauto](https://github.com/yorkoliu/pyauto)
-- 【源码打包下载】（zip）[http://share.weiyun.com/9e4bfc70a9af8840927b92910ab80d8b](http://share.weiyun.com/9e4bfc70a9af8840927b92910ab80d8b)
+- 【源码打包下载】（zip）[http://share.weiyun.com/15f862205c0f178aacb30b963e85ed07](http://share.weiyun.com/15f862205c0f178aacb30b963e85ed07)
 
 ##章节列表
 * 第一章　系统基础信息模块详解
