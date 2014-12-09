@@ -24,12 +24,14 @@
 * 第十六章　构建桌面版C/S自动化运维平台
 
 
-##问题反馈
+##沟通反馈
 
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流，谢谢。
 
-* 问答平台 [qa.liuts.com](http://qa.liuts.com)
+* 书籍在线问答 [http://qa.liuts.com](http://qa.liuts.com)
+* 书籍纠错汇总 [http://blog.liuts.com/component/id/5/](http://blog.liuts.com/component/id/5/)
 * 邮件(liutiansi@gmail.com)
 * weibo: [@yorkoliu](http://weibo.com/u/1775431677)
 * blog: [blog.liuts.com](http://blog.liuts.com)
 * 微信号：yorkoliu
+* QQ交流群：222171081
